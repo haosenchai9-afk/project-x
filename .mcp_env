@@ -1,0 +1,5 @@
+# .mcp_env（本地敏感配置文件，禁止提交到GitHub）
+# 1. GitHub个人访问令牌（PAT）：需具备repo权限
+MCP_GITHUB_TOKEN=[你的GitHub令牌]
+# 2. 目标仓库所在的组织/用户名（如仓库地址是https://github.com/alice/project-x，则填alice）
+GITHUB_EVAL_ORG=[你的GitHub组织/用户名]
